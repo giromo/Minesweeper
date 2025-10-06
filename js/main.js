@@ -97,7 +97,7 @@ function buildTable() {
   <tr>
     <td class="menu" id="folder-bar" colspan="${size}">
       <div id="folder1"><a href="https://github.com/nickarocho/minesweeper/blob/master/readme.md" target="blank">Read Me </a></div>
-      <div id="folder2"><a href="https://github.com/nickarocho/minesweeper" target="blank">Source Code</a></div>
+      <div id="folder2"><a href="https://github.com/giromo/Minesweeper" target="blank">Source Code</a></div>
     </td>
   </tr>
   </tr>
